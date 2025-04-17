@@ -9,6 +9,6 @@ idk an idea came to my mind and then it just went from there
 well YOUR just replaces some characters in the font (and like adds barely any emojis)
 and mine uses a mod to add a shitton of emojis without replacing the font
 
-check out [emojiless](https://modrinth.com/mod/emojiless) btw
+check out [emojiless](https://modrinth.com/mod/emojiless) and [emogg](https://modrinth.com/mod/emogg) btw
 
 im prob gonna make an emojiful version later when i finish fixing this one
